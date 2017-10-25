@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=7OSwddxJ90M
 
 
 
-<img src="https://lh3.googleusercontent.com/J29Qk-mSy_vkXTK52ifamm5hao2Rywbec_Hbn0ex6obTTTiRwcO1AWDJ0qwMDiICWn4=h900-rw" width="240" height="425">
+<img src="https://github.com/braulio94/CoffeeOrderApp/blob/master/screenshots/device-2017-10-25-172804.png" width="240" height="425">
